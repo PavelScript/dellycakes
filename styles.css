@@ -86,22 +86,25 @@ body {
 
   @media (max-width: 1200px) {
     .box1 {
+        margin: 0 25px;
         grid-column-start: 1;
         grid-column-end: 4;
         grid-row-start: 1;
         grid-row-end: 5;
     }
     .box2 {
+        margin: 0 25px;
         grid-column-start: 1;
         grid-column-end: 4;
-        grid-row-start: 6;
-        grid-row-end: 10;
+        grid-row-start: 5;
+        grid-row-end: 9;
     }
     .box3 {
+        margin: 0 25px;
         grid-column-start: 1;
         grid-column-end: 4;
-        grid-row-start: 11;
-        grid-row-end: 15;
+        grid-row-start: 9;
+        grid-row-end: 14;
     }
 }
 
