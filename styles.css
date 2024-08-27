@@ -4,6 +4,11 @@ body {
     margin: 0;
 }
 
+a {
+    color: black;
+    text-decoration: none;
+
+}
 
 .imagelogo {
     width: 200px;
@@ -152,3 +157,4 @@ body {
 
   
 }
+
