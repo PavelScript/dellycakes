@@ -94,14 +94,14 @@ body {
     .box2 {
         grid-column-start: 1;
         grid-column-end: 4;
-        grid-row-start: 5;
-        grid-row-end: 9;
+        grid-row-start: 6;
+        grid-row-end: 10;
     }
     .box3 {
         grid-column-start: 1;
         grid-column-end: 4;
-        grid-row-start: 9;
-        grid-row-end: 14;
+        grid-row-start: 11;
+        grid-row-end: 15;
     }
 }
 
