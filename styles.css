@@ -9,7 +9,7 @@ body {
     width: 200px;
 }
 
-#order {
+.order {
     font-weight: bold;
 }
 
@@ -136,6 +136,9 @@ body {
     .menu p {
         font-size: 13px;
     }    
+
+
+    
 }
 
 @media (min-width: 1100px) {
