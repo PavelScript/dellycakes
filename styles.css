@@ -9,6 +9,9 @@ body {
     width: 200px;
 }
 
+#order {
+    font-weight: bold;
+}
 
 
 .headwrapper {
@@ -41,8 +44,8 @@ body {
     background-color: #d8caac98;
 }
 .menu p {
-    font-size: 20px;
-    font-weight: bold;
+    font-size: 23px;
+    
 }
 
 /*Pictures*/
@@ -131,7 +134,7 @@ body {
     }
 
     .menu p {
-        font-size: 10px;
+        font-size: 13px;
     }    
 }
 
