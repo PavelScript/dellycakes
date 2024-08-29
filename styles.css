@@ -52,6 +52,7 @@ h2 {
     flex: row;
     justify-content: space-around;
     background-color: #d8caac98;
+    
 }
 .menu p {
     font-size: 23px;
@@ -167,7 +168,7 @@ h2 {
     }
     .pricewrap img{
         width: 100px;
-        max-height: 50%;
+        max-height: 100%;
     }
 
     .picturewrapper img {
